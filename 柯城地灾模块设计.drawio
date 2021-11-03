@@ -1,86 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T00:39:52.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="24gcpQCratisurYexWWW" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T01:00:12.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="fvSY5mN5Jq12JRP4gXHl" version="15.6.5" type="github">
   <diagram id="kn4RItxIjhbV55qoLQgQ" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-26" value="业务场景" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="-740" width="840" height="320" as="geometry" />
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-26" value="码上知险" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-584" width="150" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-1" value="码上治灾" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="250" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-2" value="切坡建房" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=default;labelBackgroundColor=default;fillColor=default;" edge="1" parent="KBvXtt3DKamvC6KUMFuS-26" source="KBvXtt3DKamvC6KUMFuS-1" target="KBvXtt3DKamvC6KUMFuS-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-4" value="山区工程" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=default;labelBackgroundColor=default;fillColor=default;" edge="1" parent="KBvXtt3DKamvC6KUMFuS-26" source="KBvXtt3DKamvC6KUMFuS-1" target="KBvXtt3DKamvC6KUMFuS-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-6" value="码上知险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="400" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-7" value="一沟一卡" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=default;labelBackgroundColor=default;fillColor=default;" edge="1" parent="KBvXtt3DKamvC6KUMFuS-26" source="KBvXtt3DKamvC6KUMFuS-6" target="KBvXtt3DKamvC6KUMFuS-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-9" value="景区道路" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="534" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=default;labelBackgroundColor=default;fillColor=default;" edge="1" parent="KBvXtt3DKamvC6KUMFuS-26" source="KBvXtt3DKamvC6KUMFuS-6" target="KBvXtt3DKamvC6KUMFuS-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-11" value="码上智行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="690" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-12" value="交通道路" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="690" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=default;labelBackgroundColor=default;fillColor=default;" edge="1" parent="KBvXtt3DKamvC6KUMFuS-26" source="KBvXtt3DKamvC6KUMFuS-11" target="KBvXtt3DKamvC6KUMFuS-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-16" value="地块资料" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=default;labelBackgroundColor=default;fillColor=default;" edge="1" parent="KBvXtt3DKamvC6KUMFuS-26" source="KBvXtt3DKamvC6KUMFuS-2" target="KBvXtt3DKamvC6KUMFuS-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-29" value="&lt;span&gt;建房申请&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
-          <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" edge="1" parent="KBvXtt3DKamvC6KUMFuS-26" source="KBvXtt3DKamvC6KUMFuS-2" target="KBvXtt3DKamvC6KUMFuS-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-29" value="&lt;span&gt;一沟一卡&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-26">
+          <mxGeometry x="15" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-31" value="基础数据" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-410" width="840" height="250" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-49" value="风险防范区" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
-          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-50" value="专业监测点" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
-          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-51" value="专业监测设备" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
-          <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-52" value="设备厂商" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
-          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-53" value="案例库" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
           <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-53" value="案例库" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
+          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-54" value="地质调查数据" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
-          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-55" value="科普知识" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
-          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-16" value="建房地块资料" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-114" value="景区构筑物信息" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-115" value="道路信息" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-56" value="预警生成" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-150" width="840" height="170" as="geometry" />
@@ -177,6 +138,27 @@
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-113" value="外呼统计" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-103">
           <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-117" value="码上治灾" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-584" width="540" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-118" value="建房评估" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-117">
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-119" value="建房实际情况" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;labelBackgroundColor=default;fontColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-117">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-120" value="&lt;span&gt;建房申请&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-117">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-121" value="&lt;span&gt;山区工程&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-117">
+          <mxGeometry x="410" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-122" value="码上智行" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-584" width="150" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-123" value="智能路线" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=default;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-122">
+          <mxGeometry x="15" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
