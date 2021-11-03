@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T02:17:39.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="j8oSacUroEgiuMsEbwRE" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T07:08:21.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ACB9EH6KBZ29kYnw-RHR" version="15.6.5" type="github">
   <diagram id="kn4RItxIjhbV55qoLQgQ" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-115" value="道路信息" style="whiteSpace=wrap;html=1;rounded=1;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
           <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-124" value="人员基础信息" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-31">
+          <mxGeometry x="540" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-56" value="预警生成" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-150" width="840" height="170" as="geometry" />
