@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T02:01:54.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-ARXU2bqxQhhAHSCmuxf" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T02:10:37.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Aa1TcYRMILCM-EuvrB89" version="15.6.6" type="github">
   <diagram id="kvt84RGO9lumkkQBjtx6" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,9 +146,6 @@
         </mxCell>
         <mxCell id="leN5depsDuXBYQxBNwCu-15" value="案例展示" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="770" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="leN5depsDuXBYQxBNwCu-17" value="地灾智治管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="420" y="920" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="leN5depsDuXBYQxBNwCu-18" value="风险点查看" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="900" y="280" width="120" height="60" as="geometry" />
