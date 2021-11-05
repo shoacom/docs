@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T01:33:35.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BuDoeIcyGZOneuKKfYgC" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T01:34:02.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="S-Bku0h5d9HSenMAFKSU" version="15.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="rln7QxH3AYazvcpurLlf-31" value="预警研判" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rln7QxH3AYazvcpurLlf-32" value="消息发送" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rln7QxH3AYazvcpurLlf-32" value="消息触达" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="245" y="630" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rln7QxH3AYazvcpurLlf-33" value="短信发送" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
