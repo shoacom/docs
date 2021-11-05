@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T02:02:08.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="z1dwC3Dc_jpMQkEKcydF" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T01:33:35.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BuDoeIcyGZOneuKKfYgC" version="15.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="rln7QxH3AYazvcpurLlf-10" value="" style="swimlane;startSize=0;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="280" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rln7QxH3AYazvcpurLlf-11" value="事件反应器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;fontSize=18;" parent="rln7QxH3AYazvcpurLlf-10" vertex="1">
+        <mxCell id="rln7QxH3AYazvcpurLlf-11" value="事件监听器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;fontSize=18;" parent="rln7QxH3AYazvcpurLlf-10" vertex="1">
           <mxGeometry x="35" y="25" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rln7QxH3AYazvcpurLlf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontColor=default;strokeColor=default;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rln7QxH3AYazvcpurLlf-14" target="rln7QxH3AYazvcpurLlf-10" edge="1">
@@ -46,53 +46,44 @@
         <mxCell id="rln7QxH3AYazvcpurLlf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=15;fontColor=default;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rln7QxH3AYazvcpurLlf-22" target="rln7QxH3AYazvcpurLlf-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rln7QxH3AYazvcpurLlf-22" target="XFstZxvh1cE9js-YEO7D-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rln7QxH3AYazvcpurLlf-22" value="" style="swimlane;startSize=0;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="500" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rln7QxH3AYazvcpurLlf-23" value="任务执行器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;fontSize=18;" parent="rln7QxH3AYazvcpurLlf-22" vertex="1">
           <mxGeometry x="35" y="25" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rln7QxH3AYazvcpurLlf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=15;fontColor=default;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rln7QxH3AYazvcpurLlf-29" target="rln7QxH3AYazvcpurLlf-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rln7QxH3AYazvcpurLlf-29" value="定时器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="510" y="390" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="rln7QxH3AYazvcpurLlf-31" value="预警研判" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rln7QxH3AYazvcpurLlf-32" value="任务开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="630" width="250" height="80" as="geometry" />
+        <mxCell id="rln7QxH3AYazvcpurLlf-32" value="消息发送" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="245" y="630" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rln7QxH3AYazvcpurLlf-33" value="短信发送" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="640" width="100" height="60" as="geometry" />
+          <mxGeometry x="265" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rln7QxH3AYazvcpurLlf-34" value="语音外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="640" width="100" height="60" as="geometry" />
+          <mxGeometry x="385" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-1" value="任务终止" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="630" width="250" height="80" as="geometry" />
+        <mxCell id="XFstZxvh1cE9js-YEO7D-4" value="短信发送" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="265" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-2" value="停止短信发送" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="640" width="100" height="60" as="geometry" />
+        <mxCell id="XFstZxvh1cE9js-YEO7D-5" value="语音外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="385" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-3" value="停止语音外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="640" width="100" height="60" as="geometry" />
+        <mxCell id="XFstZxvh1cE9js-YEO7D-6" value="短信发送" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="265" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-4" value="短信发送" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="640" width="100" height="60" as="geometry" />
+        <mxCell id="XFstZxvh1cE9js-YEO7D-7" value="语音外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="385" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-5" value="语音外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="640" width="100" height="60" as="geometry" />
+        <mxCell id="X-orkbCftuQeI2mee3da-0" value="系统事件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-6" value="短信发送" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="640" width="100" height="60" as="geometry" />
+        <mxCell id="X-orkbCftuQeI2mee3da-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X-orkbCftuQeI2mee3da-0" target="rln7QxH3AYazvcpurLlf-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XFstZxvh1cE9js-YEO7D-7" value="语音外呼" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="640" width="100" height="60" as="geometry" />
+        <mxCell id="X-orkbCftuQeI2mee3da-1" value="系统告警" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="140" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
