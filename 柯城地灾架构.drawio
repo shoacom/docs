@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T06:10:13.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="jp82ln-K9UffI6HyRaaU" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T06:12:01.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="mnCxgsb2ZQkWx5I-ksWo" version="16.5.6" type="github">
   <diagram id="MbDQIvrsSx4T4B3flQ1r" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="34UCa8jiqg8BhMM7ebZQ-15" value="系统运维人员" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="580" y="135" width="130" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="34UCa8jiqg8BhMM7ebZQ-16" value="Rest Controller" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontColor=default;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="34UCa8jiqg8BhMM7ebZQ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontColor=default;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="170" y="320" width="660" height="80" as="geometry" />
         </mxCell>
         <mxCell id="34UCa8jiqg8BhMM7ebZQ-17" value="控制层" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;fontColor=default;" parent="1" vertex="1">
@@ -129,6 +129,15 @@
         </mxCell>
         <mxCell id="24nKrhlY2BfEUD9Ug1ou-2" value="&lt;span style=&quot;font-size: 15px&quot;&gt;redis&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="416" y="939.75" width="134" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="24nKrhlY2BfEUD9Ug1ou-3" value="AdminRestController" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24nKrhlY2BfEUD9Ug1ou-4" value="WebRestController" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24nKrhlY2BfEUD9Ug1ou-5" value="H5RestController" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
