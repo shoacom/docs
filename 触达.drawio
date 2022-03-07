@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T02:40:35.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="E1K89CgMHMhh4K6ZvpMU" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T02:46:46.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Bphw2QyFe6VSqq-GhOwc" version="16.6.1" type="github">
   <diagram id="bzI8fDrOKWLvBMaZpVRl" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="aqdFDfgis7o9svOUVbwk-1" value="事件入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aqdFDfgis7o9svOUVbwk-3" value="推送管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqdFDfgis7o9svOUVbwk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aqdFDfgis7o9svOUVbwk-5" target="aqdFDfgis7o9svOUVbwk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aqdFDfgis7o9svOUVbwk-5" value="防灾知识" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
