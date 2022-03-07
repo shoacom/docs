@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T02:38:51.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QLwRIWyOlcDaogmPrR_6" version="16.6.1" type="github"><diagram id="bzI8fDrOKWLvBMaZpVRl" name="Page-1">7VhNb5wwEP01c2wFGFg4Asumh1aRslKTHK3FASpYE8cbIL++NpgYtB9JlLRLpEgcmDc2Zt7MPGwARWVzwXCV/aIJKcAykgbQEizLtC0L5GUkbY8sfLsHUpYnapAG1vkTUaCh0F2ekIfJQE5pwfNqCm7odks2fIJhxmg9HXZHi+mqFU7JHrDe4GIfvc4TnvWoZy00/oPkaTasbLp+7ynxMFhF8pDhhNYjCMWAIkYp7+/KJiKFJG/gpZ+3OuJ9fjFGtvw1E9ZP7vVVEN1f3t3jqsbry99X5Tf1lEdc7FTAENsQBvKKHfBN8L0OWUFgQuyCZ0KwgngBQdwhC/AN8FwVIm8H3hjdbRMilzYBhXWWc7Ku8EZ6a1EpAst4WSj3fijDexHGSTOCVGgXhJaEs1YMGbxDwag6Q46ya501c0hFNsqYqzCsCiV9frTmUtwoOt9ArbfHCUlEaSmTMp7RlG5xEWs01KwZwtJjflJaKa7+EM5b1Sd4x+mUSdLk/EZO/+4o63bkWTbqyZ3RKuMo+w90xzbkRIiqtzlmKeEvV5mM/2QuGSkwzx+nrffhiTHNc2bGHOVFZ+lwZkRCWHszNkazpKmnddb/yyiaVUatUyq2gFBIlS3lzIvAcz6BeFn2ucXL/yzipVtEd8XtpCk+ukXQK1vEnlWLmNaX6L03o86sMooOi14oL6l1gZK4mWkdsuamdfYBIl0IPLXj9Zdy9zt/Is+/4x2+Yl9fjaPa8aLGuLPSGOdAa4j6F4fBpT4VihWE3ogdlu+qM2MYQezJfgkNiYRL8J2z94uD5iY87rvYFV63O5EjuamdG7v/Uo2EqX+bdL7RzycU/wU=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-07T02:39:36.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="tr8mH4slGL-FujaR74mo" version="16.6.1" type="github">
+  <diagram id="bzI8fDrOKWLvBMaZpVRl" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-1" value="人员信息管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Sz6WRACqOfqapwaSOVRm-2" target="Sz6WRACqOfqapwaSOVRm-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Sz6WRACqOfqapwaSOVRm-2" target="Sz6WRACqOfqapwaSOVRm-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-2" value="人群包管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sz6WRACqOfqapwaSOVRm-3" target="Sz6WRACqOfqapwaSOVRm-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Sz6WRACqOfqapwaSOVRm-3" target="Sz6WRACqOfqapwaSOVRm-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-3" value="任务管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-4" value="短信/外呼模板管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Sz6WRACqOfqapwaSOVRm-5" target="Sz6WRACqOfqapwaSOVRm-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-5" value="短信/外呼记录" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sz6WRACqOfqapwaSOVRm-6" value="短信/外呼详情" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
