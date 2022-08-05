@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T03:57:45.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hAKhMcWBTkWJYLhCYk36" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T06:06:07.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eix42hucXgUoE-jdVt_E" version="20.2.3" type="github">
   <diagram id="kvt84RGO9lumkkQBjtx6" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,9 +197,6 @@
         <mxCell id="leN5depsDuXBYQxBNwCu-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;" parent="1" source="leN5depsDuXBYQxBNwCu-36" target="leN5depsDuXBYQxBNwCu-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="leN5depsDuXBYQxBNwCu-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;" parent="1" source="leN5depsDuXBYQxBNwCu-36" target="leN5depsDuXBYQxBNwCu-78" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="leN5depsDuXBYQxBNwCu-36" value="建房评估" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="210" y="500" width="120" height="60" as="geometry" />
         </mxCell>
@@ -207,9 +204,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="leN5depsDuXBYQxBNwCu-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;" parent="1" source="leN5depsDuXBYQxBNwCu-39" target="leN5depsDuXBYQxBNwCu-82" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="leN5depsDuXBYQxBNwCu-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="leN5depsDuXBYQxBNwCu-39" target="leN5depsDuXBYQxBNwCu-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="leN5depsDuXBYQxBNwCu-39" value="空间码管理" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
@@ -339,19 +333,13 @@
           <mxGeometry x="110" y="600" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="leN5depsDuXBYQxBNwCu-76" value="建房申请列表" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="240" y="600" width="20" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="leN5depsDuXBYQxBNwCu-78" value="建房地块资料" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="260" y="600" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="leN5depsDuXBYQxBNwCu-80" value="治灾空间码" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="leN5depsDuXBYQxBNwCu-80" value="区域空间码" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="370" y="600" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="leN5depsDuXBYQxBNwCu-82" value="知险空间码" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="leN5depsDuXBYQxBNwCu-82" value="点位空间码" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="390" y="600" width="20" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="leN5depsDuXBYQxBNwCu-84" value="智行空间码" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="410" y="600" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="leN5depsDuXBYQxBNwCu-86" value="预警模型管理" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="640" y="600" width="20" height="130" as="geometry" />
