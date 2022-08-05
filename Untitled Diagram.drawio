@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T06:13:01.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BGRTEXHgmTtrmdmAl_5H" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T06:13:34.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jMRotZGdrWj7h0IOFcov" version="20.2.3" type="github">
   <diagram id="HcnWMBYI897_fy-ZZmk8" name="Page-1">
     <mxGraphModel dx="1822" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -53,7 +53,7 @@
         <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-30" value="人员基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
           <mxGeometry x="70" y="160" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-31" value="风险点基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
+        <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-31" value="风险区基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
           <mxGeometry x="200" y="160" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-32" value="设备监测信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
@@ -62,7 +62,7 @@
         <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-33" value="人员上报及巡查信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
           <mxGeometry x="480" y="162.5" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-51" value="山区/房屋基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
+        <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-51" value="房屋基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
           <mxGeometry x="70" y="40" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="ka7Pwgxfcl2DBQd3cP3Z-52" value="景区基础信息" style="rounded=1;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=#F0F0F0;" parent="ka7Pwgxfcl2DBQd3cP3Z-29" vertex="1">
