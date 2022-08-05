@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T03:55:50.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4NN-houSH_dmC1Tt3mv0" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T03:57:45.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hAKhMcWBTkWJYLhCYk36" version="20.2.3" type="github">
   <diagram id="kvt84RGO9lumkkQBjtx6" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,8 +455,26 @@
         <mxCell id="DMwfoMyVNtDYeMc3GEsb-20" value="治理工程" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="300" y="370" width="20" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="VClmB1dzTsk2QE2ILGk9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VClmB1dzTsk2QE2ILGk9-1" target="VClmB1dzTsk2QE2ILGk9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VClmB1dzTsk2QE2ILGk9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VClmB1dzTsk2QE2ILGk9-1" target="VClmB1dzTsk2QE2ILGk9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VClmB1dzTsk2QE2ILGk9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VClmB1dzTsk2QE2ILGk9-1" target="VClmB1dzTsk2QE2ILGk9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VClmB1dzTsk2QE2ILGk9-1" value="数字孪生" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VClmB1dzTsk2QE2ILGk9-5" value="泥石流" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VClmB1dzTsk2QE2ILGk9-6" value="仿真推演" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VClmB1dzTsk2QE2ILGk9-7" value="模型演示" style="whiteSpace=wrap;html=1;rounded=0;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="20" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
