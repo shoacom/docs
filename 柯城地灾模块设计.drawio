@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:35:59.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tQgKHCkotBFeZb_041GF" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:41:35.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_aPUl3k-Abluy_0IF9g7" version="20.2.3" type="github">
   <diagram id="kn4RItxIjhbV55qoLQgQ" name="Page-1">
-    <mxGraphModel dx="2605" dy="2162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,26 +40,20 @@
         <mxCell id="KBvXtt3DKamvC6KUMFuS-56" value="预警生成" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" parent="1" vertex="1">
           <mxGeometry x="-180" y="-150" width="840" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-57" value="系统预警" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-56" vertex="1">
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-57" value="专有监测预警" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-56" vertex="1">
           <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-64" value="预警上报" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-56" vertex="1">
           <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-68" value="上报统计" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-56" vertex="1">
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-68" value="气象预警" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-56" vertex="1">
           <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-69" value="预警事件统计" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-56" vertex="1">
-          <mxGeometry x="410" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-70" value="预警模型管理" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-56" vertex="1">
-          <mxGeometry x="540" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-65" value="预警处置" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="290" width="410" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-66" value="灾险情上报" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-65" vertex="1">
-          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="290" width="290" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-72" value="预警处置统计" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-65" vertex="1">
           <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
@@ -68,16 +62,16 @@
           <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-84" value="其他" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" parent="1" vertex="1">
-          <mxGeometry x="240" y="290" width="420" height="160" as="geometry" />
+          <mxGeometry x="130" y="290" width="530" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-85" value="案例展示" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-84" vertex="1">
+        <mxCell id="KBvXtt3DKamvC6KUMFuS-85" value="数字孪生" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-84" vertex="1">
           <mxGeometry x="140" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-86" value="数字驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-84" vertex="1">
           <mxGeometry x="10" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KBvXtt3DKamvC6KUMFuS-67" value="地灾巡查" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" parent="KBvXtt3DKamvC6KUMFuS-84" vertex="1">
-          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="9Ti7W31jrC_eEioaEugP-4" value="地灾巡查" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="KBvXtt3DKamvC6KUMFuS-84">
+          <mxGeometry x="284" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KBvXtt3DKamvC6KUMFuS-96" value="系统管理" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=50;" parent="1" vertex="1">
           <mxGeometry x="-180" y="460" width="840" height="160" as="geometry" />
