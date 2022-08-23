@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:52:25.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="01_GFVXM3jfLTemunO4R" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:52:49.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BuqlGolMj3n7kcnDAo2k" version="20.2.3" type="github">
   <diagram id="nbt3TyejnmN0GIqfXfZn" name="Page-1">
     <mxGraphModel dx="2858" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,8 @@
         <mxCell id="oNlbJa3u0MXDVnOYEHn1-16" value="" style="swimlane;startSize=0;labelBackgroundColor=default;fontSize=22;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="550" y="320" width="220" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="oNlbJa3u0MXDVnOYEHn1-18" value="外呼平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" parent="oNlbJa3u0MXDVnOYEHn1-16" vertex="1">
+        <mxCell id="oNlbJa3u0MXDVnOYEHn1-18" value="音信通平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" parent="oNlbJa3u0MXDVnOYEHn1-16" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oNlbJa3u0MXDVnOYEHn1-20" value="短信平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" parent="oNlbJa3u0MXDVnOYEHn1-16" vertex="1">
-          <mxGeometry x="40" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNlbJa3u0MXDVnOYEHn1-21" value="浙政钉APP" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" parent="oNlbJa3u0MXDVnOYEHn1-16" vertex="1">
           <mxGeometry x="40" y="185" width="120" height="60" as="geometry" />
@@ -28,8 +25,8 @@
         <mxCell id="DKqGRkbeiH2ECVznBnrI-2" value="专有监测平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="oNlbJa3u0MXDVnOYEHn1-16">
           <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DKqGRkbeiH2ECVznBnrI-3" value="IRS平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="oNlbJa3u0MXDVnOYEHn1-16">
-          <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="DKqGRkbeiH2ECVznBnrI-4" value="IRS平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="oNlbJa3u0MXDVnOYEHn1-16">
+          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oNlbJa3u0MXDVnOYEHn1-23" value="" style="swimlane;startSize=0;labelBackgroundColor=default;fontSize=18;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-180" y="260" width="630" height="730" as="geometry" />
