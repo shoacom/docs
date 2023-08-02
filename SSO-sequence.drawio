@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T01:26:32.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4aqNJPIQfKGWBf6LJaue" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T01:31:56.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IWrw77RtVFT2uP7D15FP" version="21.6.6" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="AikxDjBlxWvKfxnXDvlL-49" value="&lt;font color=&quot;#ff0000&quot;&gt;8 重定向用户信息页&lt;br&gt;oa.com/user&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="215" y="640" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AikxDjBlxWvKfxnXDvlL-50" value="&lt;h1&gt;OA单点系统职责&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 设计首页，默认重定向到认证中心授权页keycloak.com/auth&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 设计登录页（回调页），处理认证中心返回授权码逻辑（回调地址后拼接code），根据code调用认证中心获取令牌接口&lt;br&gt;&lt;br&gt;3. 设计&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="750" width="690" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
